@@ -19,7 +19,7 @@ free:
     price: Free
     homepage: https://kamiblue.org/
     description: |
-      An open-source fork of KAMI which was known for having a working elytra flight bypass for 2b2t (until elytras were practically disabled in early September 2020), along with features like Impact and proper Baritone integration. The client receives a new update every few days. There are currently 3 main developers and nearly 60 contributors to the project.
+      An open-source fork of KAMI with a large number of useful modules. As of April 2021, "Kami Blue" is no longer maintained but the client is still a strong choice for 2b2t.
     pros:
       - Open-source
       - Modules work well on 2b2t
@@ -33,7 +33,7 @@ free:
     price: Free
     homepage: https://salhack.com/
     description: |
-      A client made by Ionar2 which went open source due to the unobfuscated jar being leaked. Currently has no developers and the Discord does not provide technical support for Salhack either. Contains no XRay or search functions but is useful for crystal combat.
+      A client made by Ionar2 which went open-source due to the unobfuscated Jar file being leaked. Currently is unmaintained & the Discord does not provide technical support. Contains no XRay or search functions but is useful for crystal combat.
     pros:
       - Large number of helpful utilities
       - Highly customizable HUD
@@ -59,12 +59,12 @@ free:
     name: Gamesense
     author: Cyber & Hoosiers
     price: Free
-    homepage: null
+    homepage: https://github.com/IUDevman/gamesense-client
     description: |
-       A Minecraft Forge "Utility Mod" for anarchy-related servers such as 2b2t. 
+       A Minecraft Forge utility mod for anarchy-related servers such as 2b2t. 
     pros:
       - Unique PVP modules
-      - Open-source
+      - Open-source & actively developed
     cons:
       - Lacks utility modules
       - Not the best to use standalone
@@ -90,10 +90,9 @@ paid:
     price: $20 USD
     homepage: https://futureclient.net/
     description: |
-      A paid client advertised by Fit and several other 2b2t YouTubers. Future costs $20 and is one of the few clients that costs money. Avoid any unofficial or "cracked" versions. Even though they can be downloaded for free, they are almost certainly backdoored and will leak your coordinates and maybe worse (IP and Passwords).
+      One of the most commonly used clients on 2b2t, partly thanks to advertising by Fit and several other 2b2t YouTubers. Has many useful utilities and is frequently used for crystal PVP.
     pros:
       - Incredibly stable client
-      - Includes Noteblock bot (plays music with noteblocks)
       - Very accurate and quick AutoCrystal
     cons:
       - Extremely slow to update (over 8 months since version 2.9)
@@ -105,10 +104,10 @@ paid:
     price: $15 USD
     homepage: https://konasclient.com/
     description: |
-      A paid client developed by GL_DONT_CARE, Darki, and Auto in 2020. The current price of Konas is $15. Konas has some bypasses for 2b2t as PacketFly and Strafe. Konas is mostly used for crystal combat because of its excellent CrystalAura.
+      A relatively new client created in 2020. Konas is mostly used for crystal combat because of its excellent CrystalAura.
     pros:
-      - ElytraFly Bypass
-      - Up to date PVP modules
+      - Cheaper than other paid clients
+      - Up-to-date PVP modules
     cons:
       - Not compatible with some clients
       - Lacking unique modules from free clients
