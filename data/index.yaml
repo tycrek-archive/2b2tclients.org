@@ -11,7 +11,7 @@ free:
       - Built-in Baritone
     cons:
       - Nothing special that isn't found in other clients
-      - No decent movement cheats
+      - No decent movement modules
     pvp: false
   -
     name: Kami Blue
@@ -76,13 +76,13 @@ paid:
     price: $20 USD
     homepage: https://rusherhack.org/
     description: |
-      Client made by John200410, who also is the main creator of Rusherb0t. Rusherhack currently costs $20, but in the past, there was a $60 premium version.
+      Client made by John200410, who also is the main creator of Rusherb0t & the owner of both Oldfag and 2b2tpvp. Gained popularity in 2020 due to its powerful travel bypasses such as Boatfly & Boatphase.
     pros:
-      - Frequently updated with useful cheats and HUD modules
+      - Frequently updated with useful utility & HUD modules
       - Includes lots of bypasses for 2b2t
     cons:
-      - Not the best choice for Crystal PVP
-      - Some cheats are "plus exclusive" (unlocked via referral codes)
+      - Some modules are "plus exclusive" (unlocked via referral codes)
+      -
     pvp: true
   -
     name: Future
