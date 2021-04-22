@@ -21,10 +21,10 @@ free:
     description: |
       An open-source fork of KAMI which was known for having a working elytra flight bypass for 2b2t (until elytras were practically disabled in early September 2020), along with features like Impact and proper Baritone integration. The client receives a new update every few days. There are currently 3 main developers and nearly 60 contributors to the project.
     pros:
-      - Open-source with active developers
-      - Cheats work well on 2b2t
+      - Open-source
+      - Modules work well on 2b2t
     cons:
-      - GUI can be confusing for new users
+      - Client not maintained
       - Not always compatible with other clients
     pvp: true
   -
@@ -56,25 +56,25 @@ free:
       - Nothing special other than Bookbot
     pvp: false
   -
-    name: Xulu
-    author: Elementars/ZiTROX
+    name: Gamesense
+    author: Cyber & Hoosiers
     price: Free
     homepage: null
     description: |
-      Private client developed by Elementars, used by Emperium pvpers. It was leaked in the past and Elementars released the older versions here. The original client was used in 2017 after being passed around by users on YouTube. The original client's developer is ZiTROX with help from NuddlesTheMemer, ecelon & StormPvP.
+       A Minecraft Forge "Utility Mod" for anarchy-related servers such as 2b2t. 
     pros:
-      - Many unique modules
-      - Comparable to some paid clients
+      - Unique PVP modules
+      - Open-source
     cons:
-      - Not maintained
-      - Slightly outdated
-    pvp: false
+      - Lacks utility modules
+      - Not the best to use standalone
+    pvp: true
 paid:
   -
     name: RusherHack
     author: John200410
     price: $20 USD
-    homepage: https://rusherhack.org
+    homepage: https://rusherhack.org/
     description: |
       Client made by John200410, who also is the main creator of Rusherb0t. Rusherhack currently costs $20, but in the past, there was a $60 premium version.
     pros:
@@ -100,22 +100,8 @@ paid:
       - Due to lack of updates, has nothing that can't be found in other clients
     pvp: true
   -
-    name: Pyro
-    author: GiantNuker & ionar
-    price: $20 USD
-    homepage: https://pyroclient.com/
-    description: |
-      A $20 PvP client with some unique bypasses developed by GiantNuker and Ionar2 (former developer of Salhack). Used for duping items in late September and early October of 2020, as it has an autoduper module. It is accused of being a ratted client by some. The client was leaked in October of 2020 by Crystallinqq, and he added a backdoor.
-    pros:
-      - Powerful Crystal PVP
-      - Great HUD customization
-    cons:
-      - Causes ridiculous lag spikes
-      - Only worth using for AutoDupe and Crystal PVP
-    pvp: true
-  -        
     name: Konas
-    author: Darki
+    author: Darki, Auto, GL_DONT_CARE
     price: $15 USD
     homepage: https://konasclient.com/
     description: |
