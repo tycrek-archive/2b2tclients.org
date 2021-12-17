@@ -14,18 +14,18 @@ free:
       - No decent movement modules
     pvp: false
   -
-    name: Kami Blue
-    author: 086, l1ving, iBuyMountainDew, Avanatiker
+    name: Lambda
+    author: Avanatiker
     price: Free
-    homepage: https://kamiblue.org/
+    homepage: https://lambda-client.com/
     description: |
-      An open-source fork of KAMI with a large number of useful modules. As of April 2021, "Kami Blue" is no longer maintained but the client is still a strong choice for 2b2t.
+      An open-source fork of KAMI Blue with a large number of useful modules. Popular for its automatic highway construction tools and auto-duper for 5b5t.
     pros:
       - Open-source
       - Modules work well on 2b2t
     cons:
-      - Client not maintained
       - Not always compatible with other clients
+      - 
     pvp: true
   -
     name: Salhack
@@ -82,7 +82,7 @@ paid:
       - Includes lots of bypasses for 2b2t
     cons:
       - Some modules are "plus exclusive" (unlocked via referral codes)
-      -
+      - GUI looks a bit old
     pvp: true
   -
     name: Future
@@ -95,7 +95,7 @@ paid:
       - Incredibly stable client
       - Very accurate and quick AutoCrystal
     cons:
-      - Extremely slow to update (over 8 months since version 2.9)
+      - Updates can take months
       - Due to lack of updates, has nothing that can't be found in other clients
     pvp: true
   -
