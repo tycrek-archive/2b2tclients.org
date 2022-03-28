@@ -27,7 +27,7 @@
     "fs-extra": "^9.0.1",
     "helmet": "^4.2.0",
     "jstransformer-markdown-it": "^2.1.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-sass": "^5.0.0",
     "pino": "^6.7.0",
     "pino-pretty": "^4.3.0",
